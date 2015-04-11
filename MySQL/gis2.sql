@@ -152,4 +152,4 @@ CREATE TABLE IF NOT EXISTS `users` (
 --
 
 INSERT INTO `users` (`ID`, `Username`, `Password`, `UserNicename`, `UserEmail`, `UserRegistered`) VALUES
-(2, 'syarif', '8daa2f003d41f1ea865c1503b3d99d3d', '', '', '0000-00-00 00:00:00');
+(2, 'ahah', 'ahah', '', '', '0000-00-00 00:00:00');
