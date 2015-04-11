@@ -1,8 +1,8 @@
 <?PHP
-	$mysql_host = "mysql5.000webhost.com";
-	$mysql_database = "a5703683_m4p";
-	$mysql_user = "a5703683_m4p";
-	$mysql_password = "5y4r!*3f^#";
+	$mysql_host = "127.0.0.1";
+	$mysql_database = "gis-bangkinang";
+	$mysql_user = "root";
+	$mysql_password = "";
 
 	$koneksi = mysql_connect($mysql_host,$mysql_user,$mysql_password)
 			   or die ("Koneksi gagal".mysql_error());
